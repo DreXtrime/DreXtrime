@@ -6,7 +6,8 @@ Developer interested in full-stack systems, linux, automation CI/CD and DevOps.
 ## Bigger projects
 
 **[Match Me](https://github.com/DreXtrime/match-me)**
-Recommendation platform that connects users based on multiple datapoints, Built in a team. Implements a realtime chat, status updates, distance filtering and more. Features a responsive design for desktop and mobile devices. Implemented a seperate [GraphQL API layer](https://gitea.kood.tech/tanelerikneitov/graphql).  
+Recommendation platform that connects users based on multiple datapoints, Built in a team. Implements a realtime chat, status updates, distance filtering and more. Features a responsive design for desktop and mobile devices.  
+Implemented a seperate [GraphQL API layer](https://gitea.kood.tech/tanelerikneitov/graphql).  
 `Java` `Springboot` `Typescript` `React` `PostgreSQL`
 
 **[Orbit](https://github.com/DreXtrime/solar-system-orbit)**
