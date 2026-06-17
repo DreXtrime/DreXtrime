@@ -1,7 +1,7 @@
 # Tanel
 Student at [kood//Jõhvi](https://kood.tech/en/)
 
-Developer interested in full-stack systems, linux, automation CI/CD and DevOps.  
+Developer interested in full-stack systems, linux, automation pipelines, CI/CD and DevOps.  
 
 ## Bigger projects
 
