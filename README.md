@@ -1,7 +1,7 @@
 # Tanel Erik Neitov
 Student at [kood//Jõhvi](https://kood.tech/en/)  
   
-Developer interested in full-stack development, Linux workflows, and automation. I especially enjoy building and improving CI/CD pipelines.  
+I enjoy building full-stack systems and working with Linux-based development environments, automation, and CI/CD pipelines.
   
 `Java` `JavaScript` `Springboot` `SQL`  
 
