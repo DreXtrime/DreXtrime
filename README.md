@@ -10,7 +10,7 @@ I enjoy building full-stack systems and working with Linux-based development env
 **[Match Me](https://github.com/DreXtrime/match-me)**  
 In a team we built a recommendation platform that connects users based on multiple datapoints. Implements a realtime chat, status updates, distance filtering and more. Features a responsive design for desktop and mobile devices.  
 Implemented a seperate [GraphQL API layer](https://gitea.kood.tech/tanelerikneitov/graphql).  
-`Java` `Springboot` `Typescript` `React` `PostgreSQL`
+`Java` `Springboot` `Typescript` `React` `PostgreSQL` `JUnit5` `Automated unit tests`
 
 **[Orbit](https://github.com/DreXtrime/solar-system-orbit)**  
 An interactive 3D model of the solar system built with Three.js. Created as part of a project to help kids get curious about space.  
