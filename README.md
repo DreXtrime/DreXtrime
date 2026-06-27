@@ -3,7 +3,7 @@ Software Developer & DevOps Enthusiast | Student at [kood//Jõhvi](https://kood.
   
 I enjoy building full-stack systems and working with Linux-based development environments, automation, and CI/CD pipelines.
 
-**Currently working on** a webapp to help choose a movie for a movie night, using a recommendation algorithm and taking into account everyones preferences.  
+**Currently working on** a Web App to help choose a movie for a movie night, using a recommendation algorithm and taking into account everyones preferences in real time.  
 `Java` `JavaScript` `Spring Boot` `SQL`  
 
 ## Projects
