@@ -16,7 +16,11 @@ Implemented a separate [GraphQL API layer](https://gitea.kood.tech/tanelerikneit
 **[Orbit](https://github.com/DreXtrime/solar-system-orbit)↗**  
 An interactive 3D model of the solar system built with Three.js. Created as part of a project to help kids get curious about space.  
 Automatically deployed to: https://orbit.tanelneitov.eu  
-`JS` `Three.js` `Automated deployment`
+`JS` `Three.js` `Automated deployment`  
+
+**[Racetrack info screens](https://github.com/DreXtrime/race-info-screens)↗**  
+A functional racetrack tracking system including screens for race track employees and spectators. Supports touch screens and large public displays. All in real time.  
+`JS` `Tailwind` `socket.io`  
 
 **[Movies-api](https://github.com/DreXtrime/movie-api)↗**  
 REST API that stores details about actors and movies in a relational SQLite database.  
