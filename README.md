@@ -1,16 +1,16 @@
 # Tanel Erik Neitov
 Software Developer & DevOps Enthusiast | Student at [kood//Jõhvi](https://kood.tech/en/)  
   
-I enjoy building full-stack systems and working with Linux-based development environments, automation, and CI/CD pipelines.
+Building full-stack systems and working with Linux-based development environments, automation, and CI/CD pipelines.
 
-**Currently working on** a Web App to help choose a movie for a movie night, using a recommendation algorithm and taking into account everyones preferences in real time.  
+**Currently working on** a Web App to help choose a movie for a movie night, using a recommendation algorithm and taking into account everyone's preferences in real time.  
 `Java` `JavaScript` `Spring Boot` `SQL`  
 
 ## Projects
 
 **[Match Me](https://github.com/DreXtrime/match-me)↗**  
-In a team we built a recommendation platform that connects users based on multiple datapoints. Implements a realtime chat, status updates, distance filtering and more. Features a responsive design for desktop and mobile devices.  
-Implemented a seperate [GraphQL API layer](https://gitea.kood.tech/tanelerikneitov/graphql).  
+Built with a team, this connects users based on shared interests and proximity. Has real-time chat, live status updates, and distance based filtering.
+Implemented a separate [GraphQL API layer](https://gitea.kood.tech/tanelerikneitov/graphql).  
 `Java` `Spring Boot` `TypeScript` `React` `PostgreSQL` `JUnit5` `Automated unit tests`
 
 **[Orbit](https://github.com/DreXtrime/solar-system-orbit)↗**  
