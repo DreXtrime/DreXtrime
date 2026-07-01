@@ -10,7 +10,7 @@ Building full-stack systems and working with Linux-based development environment
 
 **[Match Me](https://github.com/DreXtrime/match-me)↗**  
 Built with a team, this connects users based on shared interests and proximity. Has real-time chat, live status updates, and distance based filtering.
-Implemented a separate [GraphQL API layer](https://gitea.kood.tech/tanelerikneitov/graphql).  
+Implemented a separate [GraphQL API layer](https://github.com/DreXtrime/match-me-graphql).  
 `Java` `Spring Boot` `TypeScript` `React` `PostgreSQL` `JUnit5` `Automated unit tests`
 
 **[Orbit](https://github.com/DreXtrime/solar-system-orbit)↗**  
@@ -22,9 +22,9 @@ Automatically deployed to: https://orbit.tanelneitov.eu
 A functional racetrack tracking system including screens for race track employees and spectators. Supports touch screens and large public displays. All in real time.  
 `JS` `Tailwind` `socket.io`  
 
-**[Movies-api](https://github.com/DreXtrime/movie-api)↗**  
-REST API that stores details about actors and movies in a relational SQLite database.  
-`Java` `Spring Boot` `REST API` `Docker`
+**[simple-infra-monitor](https://github.com/DreXtrime/simple-infra-monitor)↗**  
+A lightweight dockerized infrastructure monitoring tool with a Python Flask backend and JavaScript frontend. Designed for multi-server deployments  where the frontend proxies metrics from a remote backend. Auto publishes Docker images to GitHub Container Registry on every merge to main.   
+`Python` `Flask` `Docker` `GitHub Actions` `CI/CD`
 
 
 ↓
