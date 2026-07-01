@@ -22,7 +22,7 @@ Automatically deployed to: https://orbit.tanelneitov.eu
 A functional racetrack tracking system including screens for race track employees and spectators. Supports touch screens and large public displays. All in real time.  
 `JS` `Tailwind` `socket.io`  
 
-**[simple-infra-monitor](https://github.com/DreXtrime/simple-infra-monitor)↗**  
+**[Simple system monitor](https://github.com/DreXtrime/simple-infra-monitor)↗**  
 A lightweight dockerized infrastructure monitoring tool with a Python Flask backend and JavaScript frontend. Designed for multi-server deployments  where the frontend proxies metrics from a remote backend. Auto publishes Docker images to GitHub Container Registry on every merge to main.   
 `Python` `Flask` `Docker` `GitHub Actions` `CI/CD`
 
