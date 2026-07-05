@@ -24,7 +24,7 @@ A functional racetrack tracking system including screens for race track employee
 `JS` `Tailwind` `socket.io`  
 
 **[Simple system monitor](https://github.com/DreXtrime/simple-infra-monitor)↗**  
-A lightweight dockerized infrastructure monitoring tool with a Python Flask backend and JavaScript frontend. Designed for multi-server deployments  where the frontend proxies metrics from a remote backend. Auto publishes Docker images to GitHub Container Registry on every merge to main.   
+A lightweight dockerized infrastructure monitoring tool with a Python Flask backend and JavaScript frontend. Designed for multi-server deployments  where the frontend proxies metrics from a remote backend. Auto publishes Docker images to GitHub Container Registry.   
 `Python` `Flask` `Docker` `GitHub Actions` `CI/CD`
 
 
