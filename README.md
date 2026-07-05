@@ -10,7 +10,8 @@ Building full-stack systems and working with Linux-based development environment
 
 **[Match Me](https://github.com/DreXtrime/match-me)↗**  
 Built with a team, this connects users based on shared interests and proximity. Has real-time chat, live status updates, and distance based filtering.
-Implemented a separate [GraphQL API layer](https://github.com/DreXtrime/match-me-graphql).  
+**[Try the live demo](https://match-me-demo.tanelneitov.eu)↗**  
+(note: the demo does NOT store any data.)  
 `Java` `Spring Boot` `TypeScript` `React` `PostgreSQL` `JUnit5` `Automated unit tests`
 
 **[Orbit](https://github.com/DreXtrime/solar-system-orbit)↗**  
