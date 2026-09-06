@@ -3,8 +3,8 @@ Software Developer & DevOps Enthusiast | Student at [kood//Jõhvi](https://kood.
 
 Building full-stack systems and working with Linux-based development environments, automation, and CI/CD pipelines.
 
-**Currently working on** a Web App to help choose a movie for a movie night, using a recommendation algorithm and taking into account everyone's preferences in real time.  
-`JavaScript` `TypeScript` `Python`
+**Currently working on** a [Web App](https://github.com/DreXtrime/MediaCleaner) to help remove old media from your Plex library, with data from helper apps like Sonarr, Radarr and Tautulli.  
+`Kotlin` `SpringBoot`
 
 ## Projects
 
