@@ -1,5 +1,5 @@
 # Tanel Erik Neitov
-Software Developer with Full-stack projects and a side of cloud infrastructure. Graduate at kood//Jõhvi
+Full-stack software developer with a side of cloud infrastructure. Graduate of kood//Jõhvi
 
 ## Projects
 
