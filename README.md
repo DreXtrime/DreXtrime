@@ -7,7 +7,7 @@ Full-stack software developer with a side of cloud infrastructure. Graduate of k
 Built with a team, connects users based on shared interests and proximity. Real-time chat, live status updates, and distance-based filtering.  
 `Java` `Spring Boot` `TypeScript` `React` `PostgreSQL`
 
-**[ASUS Strix Fan Control](https://github.com/DreXtrime/AsusStrixExternalFanControl)**  
+**[ASUS Strix Fan Control](https://github.com/DreXtrime/AsusStrixExternalFanControl)**  | [LinkedIn blog post about it](https://lnkd.in/p/e6pSSBD2)  
 Needed a software solution to control external fan speed on an old ASUS Strix gtx 1080 graphics card, since the software Asus built for it is kind of as(u)s. Took some reverse engineering to figure out how the software communicates with the graphics cards onboard microcontroller. But the work paid off and and I'm real proud of this one.  
 `Ghidra` `x32dbg` `API monitor` `CI/CD`
 
