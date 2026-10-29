@@ -15,6 +15,11 @@ Built out a full production-grade cloud infrastructure on GCP from scratch. Two 
 Before building Voyager, I needed pricing estimations. Stress tested the app locally, found where it actually breaks, and did a full cost breakdown comparing AWS and GCP.  
 `GCP` `AWS` `Locust` `Prometheus` `Grafana` `Docker`
 
+
+**[Sherlock Logs](https://github.com/DreXtrime/sherlock-logs)**    
+A containerized infrastructure setup with centralized monitoring and logging, fully automated with Vagrant and Ansible. A dedicated monitoring VM runs Prometheus, Grafana, and the ELK stack to provide real-time visibility across all infrastructure components.  
+`Ansible` `Vagrant` `Grafana` `Prometheus` `ELK Stack`  
+
 **[Match Me](https://github.com/DreXtrime/match-me)**  | **[Live demo here](https://match-me-demo.tanelneitov.eu)** (note: no data is stored)  
 Built with a team, connects users based on shared interests and proximity. Real-time chat, live status updates, and distance-based filtering.  
-`Java` `Spring Boot` `TypeScript` `React` `PostgreSQL`
+`Java` `Spring Boot` `TypeScript` `React` `PostgreSQL`  
