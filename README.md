@@ -7,6 +7,10 @@ Full-stack software developer with a side of cloud infrastructure. Graduate of k
 Needed a software solution to control external fan speed on an old ASUS Strix gtx 1080 graphics card, since the software Asus built for it is kind of as(u)s. Took some reverse engineering to figure out how the software communicates with the graphics cards onboard microcontroller. But the work paid off and and I'm real proud of this one.  
 `Ghidra` `x32dbg` `API monitor` `CI/CD`
 
+**[Ollama bench](https://github.com/DreXtrime/ollama-bench)**    
+How good are local models for coding? I used this tool to compare prompts outputs directly from various ollama models. Wraps the ollama api to run tests on a remote gpu server.  
+`Python` `Ollama` `HTML`
+
 **[Voyager](https://github.com/DreXtrime/voyager)**
 Built out a full production-grade cloud infrastructure on GCP from scratch. Two environments, GitOps deployment pipeline, secrets management, monitoring and alerting.  
 `GCP` `Terraform` `Kubernetes` `ArgoCD` `GitLab CI` `PostgreSQL`
@@ -19,7 +23,3 @@ Before building Voyager, I needed pricing estimations. Stress tested the app loc
 **[Sherlock Logs](https://github.com/DreXtrime/sherlock-logs)**    
 A containerized infrastructure setup with centralized monitoring and logging, fully automated with Vagrant and Ansible. A dedicated monitoring VM runs Prometheus, Grafana, and the ELK stack to provide real-time visibility across all infrastructure components.  
 `Ansible` `Vagrant` `Grafana` `Prometheus` `ELK Stack`  
-
-**[Match Me](https://github.com/DreXtrime/match-me)**  | **[Live demo here](https://match-me-demo.tanelneitov.eu)** (note: no data is stored)  
-Built with a team, connects users based on shared interests and proximity. Real-time chat, live status updates, and distance-based filtering.  
-`Java` `Spring Boot` `TypeScript` `React` `PostgreSQL`  
