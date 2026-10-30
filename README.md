@@ -8,7 +8,8 @@ Needed a software solution to control external fan speed on an old ASUS Strix gt
 `Ghidra` `x32dbg` `API monitor` `CI/CD`
 
 **[Ollama bench](https://github.com/DreXtrime/ollama-bench)**    
-How good are local models for coding? I used this tool to compare prompts outputs directly from various ollama models. Wraps the ollama api to run tests on a remote gpu server.  
+How good are local models at following instructions? How do they act at different quantisation levels?  
+I used this tool to compare prompts outputs directly from various models running in ollama. Wraps the ollama api to run tests on a remote gpu server.  
 `Python` `Ollama` `HTML`
 
 **[Voyager](https://github.com/DreXtrime/voyager)**
