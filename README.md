@@ -1,5 +1,5 @@
 # Tanel Erik Neitov 
-software_DevOps  
+fullStack_DevOps  
 readme or don't readme, but make sure to mark this down, hi
 
 ## Projects
