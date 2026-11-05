@@ -9,7 +9,7 @@ Needed a software solution to control external fan speed on an old ASUS Strix gt
 `Ghidra` `x32dbg` `API monitor` `CI/CD`
 
 **[GCP vLLM](https://github.com/DreXtrime/gcp-vllm-infra)**   
-Had leftover credits for Google cloud, decided to setup a terraform ansible script to setup a VM with an NVIDIA A100, vLLM and expose it over wireguard to run various models there.  
+Had leftover credits for Google cloud, decided to setup a terraform ansible script to setup a VM with an NVIDIA A100, vLLM and expose it over wireguard to run various models there. Turns out google does not like it very much though.  
 `Terraform` `Ansible`  
 
 **[Ollama bench](https://github.com/DreXtrime/ollama-bench)**    
